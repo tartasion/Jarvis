@@ -1,0 +1,12 @@
+anthropic 
+requests 
+SpeechRecognition 
+pyaudio 
+pyautogui 
+pyperclip
+edge-tts 
+pygame 
+pyttsx3
+pycaw 
+comtypes 
+screen-brightness-control
